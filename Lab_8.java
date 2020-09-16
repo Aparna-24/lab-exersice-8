@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Venkatesh
+ * @author hp
  */
 public class Lab_8 {
 
